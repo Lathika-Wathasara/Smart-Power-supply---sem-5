@@ -1,0 +1,11 @@
+Smart switch links
+
+Programe node mcu 
+https://youtu.be/YN522_npNqs
+
+relays
+https://components101.com/switches/5v-relay-pinout-working-datasheet
+
+nodemcu datasheet
+https://components101.com/development-boards/nodemcu-esp8266-pinout-features-and-datasheet
+
