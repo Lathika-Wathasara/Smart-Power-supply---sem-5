@@ -1,5 +1,11 @@
 Smart switch links
 
+Battery charging
+https://rlopezxl.com/blog/power-your-projects-with-a-built-in-lithium-battery-and-a-tp4056-charger/
+
+nodemcu beginner course
+https://www.youtube.com/watch?v=pXyyB87YCko&list=PLWqnlHhsmcI6DXO-ke9O3naroXRNNQRa9
+
 Programe node mcu 
 https://youtu.be/YN522_npNqs
 
@@ -9,3 +15,5 @@ https://components101.com/switches/5v-relay-pinout-working-datasheet
 nodemcu datasheet
 https://components101.com/development-boards/nodemcu-esp8266-pinout-features-and-datasheet
 
+node mcu snmall projects
+https://www.instructables.com/Quick-Start-to-Nodemcu-ESP8266-on-Arduino-IDE/
