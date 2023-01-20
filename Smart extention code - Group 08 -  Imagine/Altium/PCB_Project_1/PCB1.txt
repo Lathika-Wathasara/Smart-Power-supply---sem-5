@@ -1,0 +1,21 @@
+Board Information Report
+Filename     : D:\Engineering\Projects\Smart Switch\PCB_Project_2\PCB1.PcbDoc
+Date         : 1/18/2023
+Time         : 1:19:31 PM
+Time Elapsed : 00:00:00
+
+General
+    Board Size, 65.7mmx45.52mm
+    Components on board, 10
+count : 2
+
+Non-Plated Hole Size, Pads, Vias
+count : 0
+
+Plated Hole Size, Pads, Vias
+    0.8mm, 3, 0
+    0.9mm, 12, 0
+    1mm, 2, 0
+    1.1mm, 30, 0
+    3.2mm, 4, 0
+count : 5
